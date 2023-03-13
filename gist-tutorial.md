@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Email Match Tutorial
 
 While Javascript can search for specific alphanumeric characters inside of a string or even a full phrase it does lack in some areas of complexity.  Regex(also known as regular expressions) helps close this gap by encompassing larger more intricate cases when we want to perform the same type of action. regex are a string of alphanumeric and scpecial characters that sets the parameters for a specific search pattern.
 
